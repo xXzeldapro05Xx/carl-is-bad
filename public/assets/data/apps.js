@@ -121,7 +121,7 @@ var apps = [
       "id": "instagram",
       "title": "Instagram",
       "url": "https://instagram.com",
-      'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.pngg'
+      'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png'
     },
   ]
   

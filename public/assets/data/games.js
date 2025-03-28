@@ -145,12 +145,6 @@ var games = [
     image: 'https://img.itch.zone/aW1nLzIyMTU1NDAucG5n/original/6vGlZe.png'
   },
   {
-    id: 'fnf',
-    title: 'Friday Night Funkin',
-    url: 'https://assets.3kh0.net/fridaynightfunkin/index.html',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Boyfriend-2.png/250px-Boyfriend-2.png'
-  },
-  {
     id: 'paperio2',
     title: 'Paper.io 2',
     url: 'https://assets.3kh0.net/paperio2/index.html',

@@ -21,13 +21,13 @@ var apps = [
       "id": "telegram",
       "title": "Telegram",
       "url": "https://web.telegram.org/a/",
-      'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png'
+      'image': 'https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-6896827_960_720.png'
     }, 
     {
       'id': 'vscode',
       'title': 'Visual Studio Code',
       'url': 'https://vscode.dev/',
-      'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png'
+      'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1280px-Visual_Studio_Code_1.35_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail'
     },
     {
       "id": "tiktok",
@@ -39,13 +39,13 @@ var apps = [
       "id": "reddit",
       "title": "Reddit",
       "url": "https://reddit.com",
-      'image': 'https://www.redditinc.com/assets/images/site/reddit-logo.png'
+      'image': 'https://images.seeklogo.com/logo-png/40/2/reddit-logo-png_seeklogo-409489.png'
     },
     {
       "id": "youtube",
       "title": "YouTube",
       "url": "https://youtube.com",
-      'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/YouTube_social_red_square_%282017%29.svg/2048px-YouTube_social_red_square_%282017%29.svg.png'
+      'image': 'https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png'
     },
     {
       "id": "twitter",
@@ -57,7 +57,7 @@ var apps = [
       'id': 'spotify',
       'title': 'Spotify',
       'url': 'https://open.spotify.com/browse',
-      'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png'
+      'image': 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/3840px-Spotify_App_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail'
     },
     {
       'id': 'chess',

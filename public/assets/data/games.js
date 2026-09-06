@@ -366,12 +366,7 @@ var games = [
     url: 'https://assets.3kh0.net/basketball-stars/index.html',
     image: 'https://play-lh.googleusercontent.com/EjJV6kCXgX9EIhKEtpYhQF8-BUb5En8sDKpOPiWSQJUxv9_RAfl4tMxyIMkQYgeqC6I=w240-h480-rw'
   },
-  {
-    id: 'amongus',
-    title: 'Among Us',
-    url: 'https://assets.3kh0.net/among-us/index.html',
-    image: 'https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec'
-  },
+
   {
     id: 'rocketleague',
     title: 'Rocket League',
@@ -418,14 +413,7 @@ var games = [
     id: '2048',
     title: '2048',
     url: 'https://assets.3kh0.net/2048/index.html',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/220px-2048_logo.svg.png'
-  },
-  {
-    id: 'roblox',
-    title: 'Roblox',
-    url: 'https://now.gg/play/roblox-corporation/5349/roblox',
-    image: 'https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht=w240-h480-rw',
-    description: 'EXPERIMENTAL: This may or may not work for you. Please don\'t report it if it doesn\'t. If you have bad WiFi, it may load slower than usual.'
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/2048_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original'
   },
   {
     id: 'baconmaydie',
@@ -509,12 +497,6 @@ var games = [
     title: "Penguin.io",
     url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/gertdoro/Kubeflow@a4cad845becd2a794dc59bbf5bfff375c5dae041/admission-webhook/examples/penguin.xml',
     image: 'https://play-lh.googleusercontent.com/YsT4stD48fWw0XuIT87ilZtBfTkOGlxj3PpWI9qeFUkrvpu1xjemXzqf12DxBvv-Ikk'
-  },
-  {
-    id: 'brawlguys',
-    title: 'Brawl Guys',
-    url: 'https://zayaruzostreetorgan.com/uploads/5/5/6/7/5567194/custom_themes/139948058740159493/files/index.html',
-    image: 'https://play-lh.googleusercontent.com/EiElcSrd6-o-19roiswSx0AZPzsq6qF3hUGHsSWDl5UVtj7G23DHkneM8ucwqyOmEg'
   },
   {
     id: 'digtochina',
